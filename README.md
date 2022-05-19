@@ -17,3 +17,7 @@ I don't want to
 ## Deployment
 
 Just do it or not
+
+### Copyright
+
+2014 my property
