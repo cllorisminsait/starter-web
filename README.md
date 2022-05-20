@@ -20,4 +20,4 @@ Just do it or not
 
 ### Copyright
 
-2014 my property
+2014 my property. All rights reserved
